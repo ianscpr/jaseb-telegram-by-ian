@@ -1,4 +1,4 @@
-🧠 JASEB TELEGRAM BY IAN
+🧠 JASEB TELEGRAM BY IAN SCPR
 
 Otomatis kirim pesan / iklan ke banyak grup Telegram dengan mudah dan aman.
 
