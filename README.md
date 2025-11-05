@@ -34,6 +34,7 @@ nano config.json
 
 
 Isi dengan data kamu:
+
 "API_ID": 123456,
 "API_HASH": "xxxxxxxxxxxxxxxx",
 "NOMOR_TELEPON": "+62xxxxxxxxxx",
