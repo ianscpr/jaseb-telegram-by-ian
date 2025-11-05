@@ -1,0 +1,7 @@
+{
+  "API_ID": 123456,
+  "API_HASH": "xxxxxxxxxxxxxxxx",
+  "NOMOR_TELEPON": "+62xxxxxxxxxx",
+  "PESAN": "Halo dari JASEB!",
+  "TARGET": ["@namagrup1", "@namagrup2"]
+}
