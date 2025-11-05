@@ -34,18 +34,15 @@ nano config.json
 
 
 Isi dengan data kamu:
-
-{
-  "API_ID": 123456,
-  "API_HASH": "xxxxxxxxxxxxxxxx",
-  "NOMOR_TELEPON": "+62xxxxxxxxxx",
-  "NAMA_SESI": "session_anda",
-  "TARGET": ["@namagrup1", "@namagrup2"],
-  "PESAN_IKLAN": "Halo, ini pesan otomatis dari JASEB!",
-  "DURASI_HARI": 10,
-  "JEDA_ULANG": 0,
-  "JEDA_PER_PESAN": 12
-}
+"API_ID": 123456,
+"API_HASH": "xxxxxxxxxxxxxxxx",
+"NOMOR_TELEPON": "+62xxxxxxxxxx",
+"NAMA_SESI": "session_anda",
+"TARGET": ["@namagrup1", "@namagrup2"],
+"PESAN_IKLAN": "Halo, ini pesan otomatis dari JASEB!",
+"DURASI_HARI": 10,
+"JEDA_ULANG": 0,
+"JEDA_PER_PESAN": 12
 
 
 🔒 Catatan Penting:
